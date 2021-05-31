@@ -1,5 +1,5 @@
 # Movie Recommender
-A Machine Learning project which recommends moves based on your current interests and average viewer ratings.
+A Machine Learning project which recommends movies based on your current interests and average viewer ratings.
 Just enter your favourite movie and get many recommendations!!
    It is build with [Google Collab] (https://research.google.com/colaboratory/) and the dataset has been used from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata) .
 
